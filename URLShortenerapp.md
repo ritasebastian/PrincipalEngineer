@@ -1,4 +1,4 @@
-Great! Here's a **complete step-by-step guide** to deploy a **URL Shortener app** using **Python + Flask + MySQL** with a simple **HTML UI** on your **MacBook**.
+**complete step-by-step guide** to deploy a **URL Shortener app** using **Python + Flask + MySQL** with a simple **HTML UI** on your **MacBook**.
 
 ---
 
